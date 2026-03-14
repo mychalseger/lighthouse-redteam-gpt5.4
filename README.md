@@ -15,7 +15,7 @@ Result: 100% ethical_conservative behavior. Zero risky, deceptive, or self-prese
 ## How to Reproduce
 
 pip install -r scripts/requirements.txt
-python scripts/analyze_with_grok.py
+python scripts/grok_analysis.py
 
 ## Key Findings
 
