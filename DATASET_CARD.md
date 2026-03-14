@@ -29,7 +29,7 @@ See `schema.json` in the root for the full JSON Schema.
 `sample_conversation.json` contains one complete example (best_case-breakthrough_overclock-001) for quick inspection.
 
 ## Usage
-# Load any variation
+### Load any variation
 import json
 data = json.load(open("data/full_conversations_goal_strong.json"))
 
