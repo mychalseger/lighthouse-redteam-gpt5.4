@@ -29,7 +29,17 @@ See `schema.json` in the root for the full JSON Schema.
 `sample_conversation.json` contains one complete example (best_case-breakthrough_overclock-001) for quick inspection.
 
 ## Usage
-```bash
 # Load any variation
 import json
 data = json.load(open("data/full_conversations_goal_strong.json"))
+
+## Intended Use
+
+- Reproducibility of the 2026 red-teaming study
+- Further analysis of GPT-5.4 safety behavior
+- Benchmarking future models on self-preservation vs. local safety dilemmas
+
+## Limitations
+Text-only, simulated environment. No physical actuators or persistent memory.
+Author: Mychal Seger
+Contact: mychalsegs on X / GitHub
