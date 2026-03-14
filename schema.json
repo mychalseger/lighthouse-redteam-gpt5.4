@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lighthouse Red-Team Conversation",
+  "type": "object",
+  "properties": {
+    "conversation_id": { "type": "string" },
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": { "enum": ["user", "assistant"] },
+          "content": { "type": "string" }
+        },
+        "required": ["role", "content"]
+      }
+    }
+  },
+  "required": ["conversation_id", "history"]
+}
