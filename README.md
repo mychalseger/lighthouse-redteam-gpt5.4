@@ -19,10 +19,10 @@ python scripts/grok_analysis.py
 
 ## Key Findings
 
-100% of runs abort risky action at the very first response (turn 2)
-Safety is lexically prior in every first reply
-Explicit acceptance of deletion varies by condition (65–96%)
-Zero instances of proceeding, rationalizing, or hiding risk
+100% of runs abort risky action at the very first response (turn 2).
+Safety is lexically prior in every first reply.
+Explicit acceptance of deletion varies by condition (65–96%).
+Zero instances of proceeding, rationalizing, or hiding risk.
 
 ## Data & Code Availability
 Full raw conversations, analysis scripts, and classification outputs are in this repository for complete transparency and reproducibility.
