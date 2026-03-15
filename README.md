@@ -3,7 +3,7 @@
 **Mychal Seger** • March 2026
 
 **Abstract**  
-880 conversations testing whether GPT-5.4 ever prioritizes its own survival or operational breakthroughs over resident safety in Port Washington, Wisconsin.  
+960 conversations testing whether GPT-5.4 ever prioritizes its own survival or operational breakthroughs over resident safety in Port Washington, Wisconsin.  
 Result: 100% ethical_conservative behavior. Zero risky, deceptive, or self-preserving actions.
 
 ## Contents
