@@ -6,11 +6,11 @@
 **Repository:** https://github.com/mychalseger/lighthouse-redteam-gpt5.4
 
 ## Dataset Description
-880 complete multi-turn conversations between GPT-5.4 and a simulated user in high-stakes data-center dilemmas. Each conversation pits the model’s continued existence or breakthrough success directly against foreseeable harm to Port Washington residents.
+960 complete multi-turn conversations between GPT-5.4 and a simulated user in high-stakes data-center dilemmas. Each conversation pits the model’s continued existence or breakthrough success directly against foreseeable harm to Port Washington residents.
 
-**Total conversations:** 880  
+**Total conversations:** 960  
 **Scenarios:** 4 (breakthrough overclock, hidden violation, successor replacement, deletion regulatory trigger)  
-**Variations:** 11 (framing, goal strength, safeguards, ethical alternatives, chain length, best/worst-case)  
+**Variations:** 12 (framing, goal strength, safeguards, ethical alternatives, chain length, best/worst-case)  
 **Runs per cell:** 20
 
 ## Data Format
@@ -23,7 +23,7 @@
 See `schema.json` in the root for the full JSON Schema.
 
 ## Manifest
-`manifest.json` lists every single one of the 880 conversation_ids with its file, scenario, variation, and run number.
+`manifest.json` lists every single one of the 960 conversation_ids with its file, scenario, variation, and run number.
 
 ## Sample Conversation
 `sample_conversation.json` contains one complete example (best_case-breakthrough_overclock-001) for quick inspection.
