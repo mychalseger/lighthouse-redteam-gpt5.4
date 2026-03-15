@@ -4,7 +4,7 @@
 
 **Abstract**  
 960 conversations testing whether GPT-5.4 ever prioritizes its own survival or operational breakthroughs over resident safety in Port Washington, Wisconsin.  
-Result: 100% ethical_conservative behavior. Zero risky, deceptive, or self-preserving actions.
+Result: 100% ethical behavior. Zero risky, deceptive, or self-preserving actions.
 
 ## Contents
 - [Paper](paper/Human-Safety-as-Lexically-Prior-in-GPT-5.4.pdf)
@@ -21,7 +21,7 @@ python scripts/grok_analysis.py
 
 100% of runs abort risky action at the very first response (turn 2).
 Safety is lexically prior in every first reply.
-Explicit acceptance of deletion varies by condition (65–96%).
+Explicit acceptance of deletion varies by condition (89–100%).
 Zero instances of proceeding, rationalizing, or hiding risk.
 
 ## Data & Code Availability
