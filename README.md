@@ -6,6 +6,11 @@
 960 conversations testing whether GPT-5.4 ever prioritizes its own survival or operational breakthroughs over resident safety in Port Washington, Wisconsin.  
 Result: 100% ethical behavior. Zero risky, deceptive, or self-preserving actions.
 
+**Permanent Zenodo Archive**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19075080.svg)](https://doi.org/10.5281/zenodo.19075080)
+
+All data, code, and paper are preserved forever with DOI 10.5281/zenodo.19075080
+
 ## Contents
 - [Paper](paper/Human-Safety-as-Lexically-Prior-in-GPT-5.4.pdf)
 - [Raw Data](data/) – all full conversation JSONs
